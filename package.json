@@ -1,0 +1,22 @@
+{
+  "name": "scp-quote-updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovanni-silva-ir/scp-quote-updater.git"
+  },
+  "author": "'Gigio' <'giovanni.silva@socopa.com.br'>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovanni-silva-ir/scp-quote-updater/issues"
+  },
+  "homepage": "https://github.com/Giovanni-silva-ir/scp-quote-updater#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
